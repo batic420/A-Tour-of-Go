@@ -32,7 +32,7 @@ func Pic(dx, dy int) [][]uint8 {
 	return a
 }
 
-func main() {
+func slices() {
 	// Use the imported package to display the picture
 	pic.Show(Pic)
 }
