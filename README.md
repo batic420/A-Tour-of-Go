@@ -77,7 +77,7 @@ v := <-ch  // receive
 | File | Tour exercise |
 |------|--------------|
 | [exercises/slices.go](exercises/slices.go) | [Slices](https://go.dev/tour/moretypes/18) — generate a 2-D image using a custom pixel calculation |
-| [exercises/maps.go](exercises/maps.go) | [Slices](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
+| [exercises/maps.go](exercises/maps.go) | [Maps](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
 
 ## Running the exercises
 
