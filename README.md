@@ -79,6 +79,7 @@ v := <-ch  // receive
 | [exercises/slices/slices.go](exercises/slices/slices.go) | [Slices](https://go.dev/tour/moretypes/18) — generate a 2-D image using a custom pixel calculation |
 | [exercises/maps/maps.go](exercises/maps/maps.go) | [Maps](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
 | [exercises/fibonacci/fibonacci.go](exercises/fibonacci/fibonacci.go) | [Fibonacci](https://go.dev/tour/moretypes/26) — generate a list of fibonacci numbers using a function closure |
+| [exercises/stringers/stringers.go](exercises/stringers/stringers.go) | [Stringers](https://go.dev/tour/methods/17) — use a Stringer to customize the output of a fmt.Printf() method |
 
 ## Running the exercises
 
