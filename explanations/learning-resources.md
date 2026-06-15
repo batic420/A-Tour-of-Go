@@ -11,3 +11,6 @@
 - *Concurrency is not Parallelism* ~ Rob Pike
 - *Let's go further* ~ Alex Edwards
 - *Writing an Interpreter in Go* ~ Thorsten Ball
+##### Practical advisory
+- *[Go Project Layout](https://github.com/golang-standards/project-layout)* ~ golang-standards
+- *[Go Style](https://google.github.io/styleguide/go/)* ~ Google
