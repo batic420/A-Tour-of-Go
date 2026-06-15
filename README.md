@@ -76,14 +76,15 @@ v := <-ch  // receive
 
 | File | Tour exercise |
 |------|--------------|
-| [exercises/slices.go](exercises/slices.go) | [Slices](https://go.dev/tour/moretypes/18) — generate a 2-D image using a custom pixel calculation |
-| [exercises/maps.go](exercises/maps.go) | [Maps](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
+| [exercises/slices/slices.go](exercises/slices/slices.go) | [Slices](https://go.dev/tour/moretypes/18) — generate a 2-D image using a custom pixel calculation |
+| [exercises/maps/maps.go](exercises/maps/maps.go) | [Maps](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
+| [exercises/fibonacci/fibonacci.go](exercises/fibonacci/fibonacci.go) | [Maps](https://go.dev/tour/moretypes/26) — generate a list of fibonacci numbers using a function closure |
 
 ## Running the exercises
 
 ```bash
 cd exercises
-go run slices.go
+go run ./subdirectoy # Replace with directory name for the exercise you want to run
 ```
 
 Some exercises (like `slices.go`) depend on `golang.org/x/tour`, which is already declared in `go.mod`.
