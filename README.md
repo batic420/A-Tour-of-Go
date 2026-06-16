@@ -80,6 +80,7 @@ v := <-ch  // receive
 | [exercises/maps/maps.go](exercises/maps/maps.go) | [Maps](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
 | [exercises/fibonacci/fibonacci.go](exercises/fibonacci/fibonacci.go) | [Fibonacci](https://go.dev/tour/moretypes/26) — generate a list of fibonacci numbers using a function closure |
 | [exercises/stringers/stringers.go](exercises/stringers/stringers.go) | [Stringers](https://go.dev/tour/methods/17) — use a Stringer to customize the output of a fmt.Printf() method |
+| [exercises/errors/errors.go](exercises/errors/errors.go) | [Errors](https://go.dev/tour/methods/20) — build a custom error message for a self-written `Sqrt()` function |
 
 ## Running the exercises
 
