@@ -76,13 +76,14 @@ v := <-ch  // receive
 
 | File | Tour exercise |
 |------|--------------|
-| [exercises/slices/slices.go](exercises/slices/slices.go) | [Slices](https://go.dev/tour/moretypes/18) — generate a 2-D image using a custom pixel calculation |
+| [exercises/slices/slices.go](exercises/slices/slices.go) | [Slices](https://go.dev/tour/moretypes/18) — generate a 2D-image using a custom pixel calculation |
 | [exercises/maps/maps.go](exercises/maps/maps.go) | [Maps](https://go.dev/tour/moretypes/23) — create a word counter for a string using map generation |
 | [exercises/fibonacci/fibonacci.go](exercises/fibonacci/fibonacci.go) | [Fibonacci](https://go.dev/tour/moretypes/26) — generate a list of fibonacci numbers using a function closure |
 | [exercises/stringers/stringers.go](exercises/stringers/stringers.go) | [Stringers](https://go.dev/tour/methods/17) — use a Stringer to customize the output of a fmt.Printf() method |
 | [exercises/errors/errors.go](exercises/errors/errors.go) | [Errors](https://go.dev/tour/methods/20) — build a custom error message for a self-written `Sqrt()` function |
 | [exercises/readers/readers.go](exercises/readers/readers.go) | [Readers](https://go.dev/tour/methods/22) — implement a Reader type that emits an infinite stream of `A` (ASCII) |
 | [exercises/rot13/rot13.go](exercises/rot13/rot13.go) | [Rot13](https://go.dev/tour/methods/23) — wrap `io.Reader` in a separate `io.Reader` to modify the stream of data in it |
+| [exercises/images/images.go](exercises/images/images.go) | [Images](https://go.dev/tour/methods/25) — generate a 2D-image like in `slices.go` but use the `images` package for it |
 
 ## Running the exercises
 
